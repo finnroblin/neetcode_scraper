@@ -1,301 +1,151 @@
 ,Category,is_completed,problem_name,problem_url,difficulty_level,youtube_url
-0,"Arrays & Hashing
-(0 / 9)",False,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,https://youtu.be/3OamzN90kPg
-1,"Arrays & Hashing
-(0 / 9)",False,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,https://youtu.be/9UtInBqnCgA
-2,"Arrays & Hashing
-(0 / 9)",False,Two Sum,https://leetcode.com/problems/two-sum/,Easy,https://www.youtube.com/watch?v=KLlXCFG5TnA
-3,"Arrays & Hashing
-(0 / 9)",False,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,https://www.youtube.com/watch?v=vzdNOK2oB2E
-4,"Arrays & Hashing
-(0 / 9)",False,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,https://www.youtube.com/watch?v=YPTqKIgVk-k
-5,"Arrays & Hashing
-(0 / 9)",False,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,https://www.youtube.com/watch?v=bNvIQI2wAjk
-6,"Arrays & Hashing
-(0 / 9)",False,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,https://www.youtube.com/watch?v=TjFXEUCMqI8
-7,"Arrays & Hashing
-(0 / 9)",False,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Medium,https://www.youtube.com/watch?v=B1k_sxOSgv8
-8,"Arrays & Hashing
-(0 / 9)",False,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-9,"Two Pointers
-(0 / 5)",False,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-10,"Two Pointers
-(0 / 5)",False,Two Sum II,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-11,"Two Pointers
-(0 / 5)",False,3Sum,https://leetcode.com/problems/3sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-12,"Two Pointers
-(0 / 5)",False,Container with Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-13,"Two Pointers
-(0 / 5)",False,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-14,"Sliding Window
-(0 / 6)",False,Best Time to Buy & Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-15,"Sliding Window
-(0 / 6)",False,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-16,"Sliding Window
-(0 / 6)",False,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-17,"Sliding Window
-(0 / 6)",False,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-18,"Sliding Window
-(0 / 6)",False,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-19,"Sliding Window
-(0 / 6)",False,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-20,"Stack
-(0 / 7)",False,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-21,"Stack
-(0 / 7)",False,Min Stack,https://leetcode.com/problems/min-stack/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-22,"Stack
-(0 / 7)",False,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-23,"Stack
-(0 / 7)",False,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-24,"Stack
-(0 / 7)",False,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-25,"Stack
-(0 / 7)",False,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-26,"Stack
-(0 / 7)",False,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-27,"Binary Search
-(0 / 7)",False,Binary Search,https://leetcode.com/problems/binary-search/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-28,"Binary Search
-(0 / 7)",False,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-29,"Binary Search
-(0 / 7)",False,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-30,"Binary Search
-(0 / 7)",False,Search Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-31,"Binary Search
-(0 / 7)",False,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-32,"Binary Search
-(0 / 7)",False,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-33,"Binary Search
-(0 / 7)",False,Find Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-34,"Linked List
-(0 / 11)",False,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-35,"Linked List
-(0 / 11)",False,Merge Two Linked Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-36,"Linked List
-(0 / 11)",False,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-37,"Linked List
-(0 / 11)",False,Remove Nth Node from End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-38,"Linked List
-(0 / 11)",False,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-39,"Linked List
-(0 / 11)",False,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-40,"Linked List
-(0 / 11)",False,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-41,"Linked List
-(0 / 11)",False,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-42,"Linked List
-(0 / 11)",False,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-43,"Linked List
-(0 / 11)",False,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-44,"Linked List
-(0 / 11)",False,Reverse Nodes in K-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-45,"Trees
-(0 / 15)",False,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-46,"Trees
-(0 / 15)",False,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-47,"Trees
-(0 / 15)",False,Diameter of a Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-48,"Trees
-(0 / 15)",False,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-49,"Trees
-(0 / 15)",False,Same Tree,https://leetcode.com/problems/same-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-50,"Trees
-(0 / 15)",False,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-51,"Trees
-(0 / 15)",False,Lowest Common Ancestor of a BST,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-52,"Trees
-(0 / 15)",False,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-53,"Trees
-(0 / 15)",False,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-54,"Trees
-(0 / 15)",False,Count Good Nodes in a Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-55,"Trees
-(0 / 15)",False,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-56,"Trees
-(0 / 15)",False,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-57,"Trees
-(0 / 15)",False,Construct Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-58,"Trees
-(0 / 15)",False,Binary Tree Max Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-59,"Trees
-(0 / 15)",False,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-60,"Tries
-(0 / 3)",False,Implement Trie,https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-61,"Tries
-(0 / 3)",False,Design Add and Search Word Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-62,"Tries
-(0 / 3)",False,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-63,"Heap / Priority Queue
-(0 / 7)",False,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-64,"Heap / Priority Queue
-(0 / 7)",False,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-65,"Heap / Priority Queue
-(0 / 7)",False,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-66,"Heap / Priority Queue
-(0 / 7)",False,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-67,"Heap / Priority Queue
-(0 / 7)",False,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-68,"Heap / Priority Queue
-(0 / 7)",False,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-69,"Heap / Priority Queue
-(0 / 7)",False,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-70,"Backtracking
-(0 / 9)",False,Subsets,https://leetcode.com/problems/subsets/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-71,"Backtracking
-(0 / 9)",False,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-72,"Backtracking
-(0 / 9)",False,Permutations,https://leetcode.com/problems/permutations/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-73,"Backtracking
-(0 / 9)",False,Subsets II,https://leetcode.com/problems/subsets-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-74,"Backtracking
-(0 / 9)",False,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-75,"Backtracking
-(0 / 9)",False,Word Search,https://leetcode.com/problems/word-search/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-76,"Backtracking
-(0 / 9)",False,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-77,"Backtracking
-(0 / 9)",False,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-78,"Backtracking
-(0 / 9)",False,N-Queens,https://leetcode.com/problems/n-queens/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-79,"Graphs
-(0 / 13)",False,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-80,"Graphs
-(0 / 13)",False,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-81,"Graphs
-(0 / 13)",False,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-82,"Graphs
-(0 / 13)",False,Pacific Atlantic Waterflow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-83,"Graphs
-(0 / 13)",False,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-84,"Graphs
-(0 / 13)",False,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-85,"Graphs
-(0 / 13)",False,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-86,"Graphs
-(0 / 13)",False,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-87,"Graphs
-(0 / 13)",False,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-88,"Graphs
-(0 / 13)",False,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-89,"Graphs
-(0 / 13)",False,Number of Connected Components in Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-90,"Graphs
-(0 / 13)",False,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-91,"Graphs
-(0 / 13)",False,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-92,"Advanced Graphs
-(0 / 6)",False,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-93,"Advanced Graphs
-(0 / 6)",False,Min Cost to Connect all Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-94,"Advanced Graphs
-(0 / 6)",False,Network Delay Time,https://leetcode.com/problems/network-delay-time/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-95,"Advanced Graphs
-(0 / 6)",False,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-96,"Advanced Graphs
-(0 / 6)",False,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-97,"Advanced Graphs
-(0 / 6)",False,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-98,"1-D Dynamic Programming
-(0 / 12)",False,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-99,"1-D Dynamic Programming
-(0 / 12)",False,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-100,"1-D Dynamic Programming
-(0 / 12)",False,House Robber,https://leetcode.com/problems/house-robber/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-101,"1-D Dynamic Programming
-(0 / 12)",False,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-102,"1-D Dynamic Programming
-(0 / 12)",False,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-103,"1-D Dynamic Programming
-(0 / 12)",False,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-104,"1-D Dynamic Programming
-(0 / 12)",False,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-105,"1-D Dynamic Programming
-(0 / 12)",False,Coin Change,https://leetcode.com/problems/coin-change/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-106,"1-D Dynamic Programming
-(0 / 12)",False,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-107,"1-D Dynamic Programming
-(0 / 12)",False,Word Break,https://leetcode.com/problems/word-break/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-108,"1-D Dynamic Programming
-(0 / 12)",False,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-109,"1-D Dynamic Programming
-(0 / 12)",False,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-110,"2-D Dynamic Programming
-(0 / 11)",False,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-111,"2-D Dynamic Programming
-(0 / 11)",False,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-112,"2-D Dynamic Programming
-(0 / 11)",False,Best Time to Buy/Sell Stock With Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-113,"2-D Dynamic Programming
-(0 / 11)",False,Coin Change II,https://leetcode.com/problems/coin-change-2/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-114,"2-D Dynamic Programming
-(0 / 11)",False,Target Sum,https://leetcode.com/problems/target-sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-115,"2-D Dynamic Programming
-(0 / 11)",False,Interleaving String,https://leetcode.com/problems/interleaving-string/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-116,"2-D Dynamic Programming
-(0 / 11)",False,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-117,"2-D Dynamic Programming
-(0 / 11)",False,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-118,"2-D Dynamic Programming
-(0 / 11)",False,Edit Distance,https://leetcode.com/problems/edit-distance/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-119,"2-D Dynamic Programming
-(0 / 11)",False,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-120,"2-D Dynamic Programming
-(0 / 11)",False,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-121,"Greedy
-(0 / 8)",False,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-122,"Greedy
-(0 / 8)",False,Jump Game,https://leetcode.com/problems/jump-game/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-123,"Greedy
-(0 / 8)",False,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-124,"Greedy
-(0 / 8)",False,Gas Station,https://leetcode.com/problems/gas-station/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-125,"Greedy
-(0 / 8)",False,Hand of Straights,https://leetcode.com/problems/hand-of-straights/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-126,"Greedy
-(0 / 8)",False,Merge Triplets to Form Target Triplet,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-127,"Greedy
-(0 / 8)",False,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-128,"Greedy
-(0 / 8)",False,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-129,"Intervals
-(0 / 6)",False,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-130,"Intervals
-(0 / 6)",False,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-131,"Intervals
-(0 / 6)",False,Non-Overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-132,"Intervals
-(0 / 6)",False,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-133,"Intervals
-(0 / 6)",False,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-134,"Intervals
-(0 / 6)",False,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
-135,"Math & Geometry
-(0 / 8)",False,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-136,"Math & Geometry
-(0 / 8)",False,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-137,"Math & Geometry
-(0 / 8)",False,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-138,"Math & Geometry
-(0 / 8)",False,Happy Number,https://leetcode.com/problems/happy-number/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-139,"Math & Geometry
-(0 / 8)",False,Plus One,https://leetcode.com/problems/plus-one/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-140,"Math & Geometry
-(0 / 8)",False,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-141,"Math & Geometry
-(0 / 8)",False,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-142,"Math & Geometry
-(0 / 8)",False,Detect Squares,https://leetcode.com/problems/detect-squares/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-143,"Bit Manipulation
-(0 / 7)",False,Single Number,https://leetcode.com/problems/single-number/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-144,"Bit Manipulation
-(0 / 7)",False,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-145,"Bit Manipulation
-(0 / 7)",False,Counting Bits,https://leetcode.com/problems/counting-bits/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-146,"Bit Manipulation
-(0 / 7)",False,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-147,"Bit Manipulation
-(0 / 7)",False,Missing Number,https://leetcode.com/problems/missing-number/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
-148,"Bit Manipulation
-(0 / 7)",False,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
-149,"Bit Manipulation
-(0 / 7)",False,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+0,Arrays & Hashing,False,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Easy,https://youtu.be/3OamzN90kPg
+1,Arrays & Hashing,False,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Easy,https://youtu.be/9UtInBqnCgA
+2,Arrays & Hashing,False,Two Sum,https://leetcode.com/problems/two-sum/,Easy,https://www.youtube.com/watch?v=KLlXCFG5TnA
+3,Arrays & Hashing,False,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Medium,https://www.youtube.com/watch?v=vzdNOK2oB2E
+4,Arrays & Hashing,False,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Medium,https://www.youtube.com/watch?v=YPTqKIgVk-k
+5,Arrays & Hashing,False,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,https://www.youtube.com/watch?v=bNvIQI2wAjk
+6,Arrays & Hashing,False,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Medium,https://www.youtube.com/watch?v=TjFXEUCMqI8
+7,Arrays & Hashing,False,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Medium,https://www.youtube.com/watch?v=B1k_sxOSgv8
+8,Arrays & Hashing,False,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+9,Two Pointers,False,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+10,Two Pointers,False,Two Sum II,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+11,Two Pointers,False,3Sum,https://leetcode.com/problems/3sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+12,Two Pointers,False,Container with Most Water,https://leetcode.com/problems/container-with-most-water/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+13,Two Pointers,False,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+14,Sliding Window,False,Best Time to Buy & Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+15,Sliding Window,False,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+16,Sliding Window,False,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+17,Sliding Window,False,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+18,Sliding Window,False,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+19,Sliding Window,False,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+20,Stack,False,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+21,Stack,False,Min Stack,https://leetcode.com/problems/min-stack/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+22,Stack,False,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+23,Stack,False,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+24,Stack,False,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+25,Stack,False,Car Fleet,https://leetcode.com/problems/car-fleet/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+26,Stack,False,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+27,Binary Search,False,Binary Search,https://leetcode.com/problems/binary-search/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+28,Binary Search,False,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+29,Binary Search,False,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+30,Binary Search,False,Search Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+31,Binary Search,False,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+32,Binary Search,False,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+33,Binary Search,False,Find Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+34,Linked List,False,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+35,Linked List,False,Merge Two Linked Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+36,Linked List,False,Reorder List,https://leetcode.com/problems/reorder-list/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+37,Linked List,False,Remove Nth Node from End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+38,Linked List,False,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+39,Linked List,False,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+40,Linked List,False,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+41,Linked List,False,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+42,Linked List,False,LRU Cache,https://leetcode.com/problems/lru-cache/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+43,Linked List,False,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+44,Linked List,False,Reverse Nodes in K-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+45,Trees,False,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+46,Trees,False,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+47,Trees,False,Diameter of a Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+48,Trees,False,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+49,Trees,False,Same Tree,https://leetcode.com/problems/same-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+50,Trees,False,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+51,Trees,False,Lowest Common Ancestor of a BST,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+52,Trees,False,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+53,Trees,False,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+54,Trees,False,Count Good Nodes in a Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+55,Trees,False,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+56,Trees,False,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+57,Trees,False,Construct Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+58,Trees,False,Binary Tree Max Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+59,Trees,False,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+60,Tries,False,Implement Trie,https://leetcode.com/problems/implement-trie-prefix-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+61,Tries,False,Design Add and Search Word Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+62,Tries,False,Word Search II,https://leetcode.com/problems/word-search-ii/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+63,Heap / Priority Queue,False,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+64,Heap / Priority Queue,False,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+65,Heap / Priority Queue,False,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+66,Heap / Priority Queue,False,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+67,Heap / Priority Queue,False,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+68,Heap / Priority Queue,False,Design Twitter,https://leetcode.com/problems/design-twitter/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+69,Heap / Priority Queue,False,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+70,Backtracking,False,Subsets,https://leetcode.com/problems/subsets/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+71,Backtracking,False,Combination Sum,https://leetcode.com/problems/combination-sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+72,Backtracking,False,Permutations,https://leetcode.com/problems/permutations/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+73,Backtracking,False,Subsets II,https://leetcode.com/problems/subsets-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+74,Backtracking,False,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+75,Backtracking,False,Word Search,https://leetcode.com/problems/word-search/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+76,Backtracking,False,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+77,Backtracking,False,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+78,Backtracking,False,N-Queens,https://leetcode.com/problems/n-queens/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+79,Graphs,False,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+80,Graphs,False,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+81,Graphs,False,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+82,Graphs,False,Pacific Atlantic Waterflow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+83,Graphs,False,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+84,Graphs,False,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+85,Graphs,False,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+86,Graphs,False,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+87,Graphs,False,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+88,Graphs,False,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+89,Graphs,False,Number of Connected Components in Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+90,Graphs,False,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+91,Graphs,False,Word Ladder,https://leetcode.com/problems/word-ladder/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+92,Advanced Graphs,False,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+93,Advanced Graphs,False,Min Cost to Connect all Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+94,Advanced Graphs,False,Network Delay Time,https://leetcode.com/problems/network-delay-time/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+95,Advanced Graphs,False,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+96,Advanced Graphs,False,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+97,Advanced Graphs,False,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+98,1-D Dynamic Programming,False,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+99,1-D Dynamic Programming,False,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+100,1-D Dynamic Programming,False,House Robber,https://leetcode.com/problems/house-robber/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+101,1-D Dynamic Programming,False,House Robber II,https://leetcode.com/problems/house-robber-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+102,1-D Dynamic Programming,False,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+103,1-D Dynamic Programming,False,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+104,1-D Dynamic Programming,False,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+105,1-D Dynamic Programming,False,Coin Change,https://leetcode.com/problems/coin-change/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+106,1-D Dynamic Programming,False,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+107,1-D Dynamic Programming,False,Word Break,https://leetcode.com/problems/word-break/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+108,1-D Dynamic Programming,False,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+109,1-D Dynamic Programming,False,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+110,2-D Dynamic Programming,False,Unique Paths,https://leetcode.com/problems/unique-paths/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+111,2-D Dynamic Programming,False,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+112,2-D Dynamic Programming,False,Best Time to Buy/Sell Stock With Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+113,2-D Dynamic Programming,False,Coin Change II,https://leetcode.com/problems/coin-change-2/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+114,2-D Dynamic Programming,False,Target Sum,https://leetcode.com/problems/target-sum/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+115,2-D Dynamic Programming,False,Interleaving String,https://leetcode.com/problems/interleaving-string/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+116,2-D Dynamic Programming,False,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+117,2-D Dynamic Programming,False,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+118,2-D Dynamic Programming,False,Edit Distance,https://leetcode.com/problems/edit-distance/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+119,2-D Dynamic Programming,False,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+120,2-D Dynamic Programming,False,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+121,Greedy,False,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+122,Greedy,False,Jump Game,https://leetcode.com/problems/jump-game/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+123,Greedy,False,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+124,Greedy,False,Gas Station,https://leetcode.com/problems/gas-station/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+125,Greedy,False,Hand of Straights,https://leetcode.com/problems/hand-of-straights/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+126,Greedy,False,Merge Triplets to Form Target Triplet,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+127,Greedy,False,Partition Labels,https://leetcode.com/problems/partition-labels/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+128,Greedy,False,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+129,Intervals,False,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+130,Intervals,False,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+131,Intervals,False,Non-Overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+132,Intervals,False,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+133,Intervals,False,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+134,Intervals,False,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,Hard,https://www.youtube.com/watch?v=P6RZZMu_maU
+135,Math & Geometry,False,Rotate Image,https://leetcode.com/problems/rotate-image/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+136,Math & Geometry,False,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+137,Math & Geometry,False,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+138,Math & Geometry,False,Happy Number,https://leetcode.com/problems/happy-number/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+139,Math & Geometry,False,Plus One,https://leetcode.com/problems/plus-one/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+140,Math & Geometry,False,"Pow(x, n)",https://leetcode.com/problems/powx-n/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+141,Math & Geometry,False,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+142,Math & Geometry,False,Detect Squares,https://leetcode.com/problems/detect-squares/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+143,Bit Manipulation,False,Single Number,https://leetcode.com/problems/single-number/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+144,Bit Manipulation,False,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+145,Bit Manipulation,False,Counting Bits,https://leetcode.com/problems/counting-bits/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+146,Bit Manipulation,False,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+147,Bit Manipulation,False,Missing Number,https://leetcode.com/problems/missing-number/,Easy,https://www.youtube.com/watch?v=P6RZZMu_maU
+148,Bit Manipulation,False,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
+149,Bit Manipulation,False,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Medium,https://www.youtube.com/watch?v=P6RZZMu_maU
